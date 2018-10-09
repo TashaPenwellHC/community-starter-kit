@@ -7,7 +7,7 @@ Description
 ## What it does
 
 Features
-- it contains info
+- it contains information
 
 ## Getting started
 
