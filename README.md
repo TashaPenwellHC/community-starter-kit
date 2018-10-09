@@ -1,10 +1,13 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+Description 
+- for learning lab
+
 
 ## What it does
 
-FEATURES PLACEHOLDER
+Features
+- it contains info
 
 ## Getting started
 
